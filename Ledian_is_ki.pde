@@ -1,4 +1,9 @@
-import java.util.Random;
+/*
+This has nothing to do with Programming 11 in WPGA.
+This is a project for Programming 11 at Lord Byng.
+I made this project because a friend from Byng was complaining that this project is hard and takes a ton of time. 
+So, I did the whole project, except better, and taking less time.
+*/
 
 int hilllocation = 0;
 int hill2location = 0;
